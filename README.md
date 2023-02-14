@@ -6,4 +6,4 @@
 
 ### Paraphrase Acquisition from Image Captions
 
-[Code]()
+[Code](https://github.com/webis-de/eacl23-paraphrase-acquisition-from-image-captions)
