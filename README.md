@@ -7,3 +7,8 @@
 ### Paraphrase Acquisition from Image Captions
 
 [Code](https://github.com/webis-de/eacl23-paraphrase-acquisition-from-image-captions)
+
+### Small-Text: Active Learning for Text Classification in Python
+
+[Code](https://github.com/webis-de/small-text)
+
