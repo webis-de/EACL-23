@@ -12,3 +12,6 @@
 
 [Code](https://github.com/webis-de/small-text)
 
+### Topic Ontologies for Arguments
+[Code](https://github.com/webis-de/topic-ontologies-for-arguments) 
+[Data](https://zenodo.org/record/5180409)
